@@ -1,6 +1,8 @@
 # Study Buddy
 ## Your study materials, ready to talk back
 
+Live demo: [https://studybuddy.utpx.in/](https://studybuddy.utpx.in/)
+
 Study Buddy is a full stack study assistant that turns a learner’s own notes and course documents into interactive, source cited study sessions. Upload class material, ask a question in plain language, get an answer grounded in your documents, and open the citations to see the supporting passages.
 
 The complete product combines the web application and API described here. The frontend and backend live in separate repositories, but together they deliver one learning experience.
